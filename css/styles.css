@@ -24,12 +24,12 @@ body {
 .hero {
     background: linear-gradient(135deg, #f2faff 0%, #e0f2fe 50%, #bae6fd 100%);
     background-image: 
-        radial-gradient(circle at 25% 25%, rgba(59, 130, 246, 0.25) 0%, transparent 50%),
-        radial-gradient(circle at 75% 75%, rgba(14, 165, 233, 0.2) 0%, transparent 45%),
+        radial-gradient(circle at 25% 25%, rgba(95, 153, 247, 0.25) 0%, transparent 50%),
+        radial-gradient(circle at 75% 75%, rgba(75, 188, 240, 0.2) 0%, transparent 45%),
         radial-gradient(circle at 50% 10%, rgba(186, 230, 253, 0.35) 0%, transparent 40%),
         radial-gradient(circle at 20% 80%, rgba(14, 165, 233, 0.3) 0%, transparent 50%),
-        radial-gradient(circle at 80% 20%, rgba(59, 130, 246, 0.25) 0%, transparent 50%),
-        radial-gradient(circle at 40% 40%, rgba(14, 165, 233, 0.18) 0%, transparent 50%),
+        radial-gradient(circle at 80% 20%, rgba(120, 166, 240, 0.25) 0%, transparent 50%),
+        radial-gradient(circle at 40% 40%, rgba(134, 212, 248, 0.18) 0%, transparent 50%),
         radial-gradient(circle at 90% 70%, rgba(186, 230, 253, 0.4) 0%, transparent 40%),
         radial-gradient(circle at 10% 30%, rgba(224, 242, 254, 0.45) 0%, transparent 45%);
     color: #1e293b;
